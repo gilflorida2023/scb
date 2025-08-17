@@ -1,0 +1,10 @@
+[package]
+name = "scb"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk = "0.17"
+gdk-pixbuf = "0.17"
+gdk-pixbuf-sys = "0.17"
+glib-sys = "0.17"
