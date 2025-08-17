@@ -22,9 +22,9 @@ cargo build --release
 This will create the executable at target/release/scb.
 
 ### Installation
-#### from the directry whre the target resides. 
-### install as root
+from the directry whre the target resides. 
+install as root
 	cargo install --path . --root /usr/local/bin
 
-### install as normal user
+install as normal user
 	cargo install --path .  ~/projects/bin
