@@ -1,8 +1,3 @@
-I understand. It sounds like the text is being treated as one single block, which is incredibly frustrating. The problem isn't with the Markdown itself, but how the text is being copied.
-
-Here is the raw text content again, without any special formatting. This is the simplest way to provide it, and it should paste cleanly into any text file.
-
-```
 scb: Save Clipboard
 
 A simple command-line utility written in Rust that saves clipboard content (either text or an image) to a file using a native GTK save dialog.
