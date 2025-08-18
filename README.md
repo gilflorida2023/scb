@@ -25,8 +25,8 @@ This will create the executable at target/release/scb.
 from the directry whre the target resides. 
 install as root
 
-	cargo install --path . --root /usr/local/bin
+	sudo cp target/release/svb  /usr/local/bin
 
 install as normal user
 
-	cargo install --path .  ~/projects/bin
+	cp target/release/svb ~/projects/bin
